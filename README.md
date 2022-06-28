@@ -1,3 +1,7 @@
+- [Link to the technical report](https://drive.google.com/file/d/1PKlYJ0xvLW8KBxk2tFq1UH2ct04j2x0v/view?usp=sharing)
+- [Link to the presentation slides](https://docs.google.com/presentation/d/1a4Dlv0lo_I1v1JWQ0CCeEiR-JPW4Mp84ZG7M-rVquCo/edit?usp=sharing)
+
+
 ## Instruction and setup
 
 Run this command to get the necessary package (DUE) that we are using: 
