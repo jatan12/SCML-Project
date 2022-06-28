@@ -1,0 +1,7 @@
+numpy==1.19.2
+gpytorch==1.6.0
+pytorch_ignite==0.4.8
+torch==1.11.0
+torchvision==0.11.3
+ignite==1.1.0
+scikit_learn==1.1.1
