@@ -12,6 +12,13 @@
     
     - *3. SNGP.ipynb*
 
+
+## Regression experiment
+
+- Apply SNGP, DUE and Exact GP to the GEFCom'14 dataset
+
+  - *4. GEFCom\'14_regression_experiment*
+  
 &nbsp;
 
 ## Acknowledgements
