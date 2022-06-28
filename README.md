@@ -1,3 +1,11 @@
+## Instruction and setup
+
+Run this command to get the necessary package (DUE) that we are using: 
+```git submodule update --init --recursive```
+
+
+To get the necessary data for the 4th experiment. Run `prepare_data_gefcom.sh`
+
 ## The classification experiments are accompanied in the following notebooks
 
   - **Deep Neural Networks, Deep Ensembles, & MC Dropout**
