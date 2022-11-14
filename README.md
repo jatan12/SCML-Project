@@ -3,7 +3,7 @@ estimation via deep learning:
 - [A Simple Approach to Improve Single-Model Deep Uncertainty via Distance-Awareness](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf)
 - [Improving Deterministic Uncertainty Estimation in Deep Learning for Classification and Regression](https://openreview.net/forum?id=Fu7D6kQPzs4)
 
-For further in formation you can refer to following documents:
+For further information you can refer to following documents:
 - [Link to the technical report](https://drive.google.com/file/d/1PKlYJ0xvLW8KBxk2tFq1UH2ct04j2x0v/view?usp=sharing)
 - [Link to the presentation slides](https://docs.google.com/presentation/d/1a4Dlv0lo_I1v1JWQ0CCeEiR-JPW4Mp84ZG7M-rVquCo/edit?usp=sharing)
 
